@@ -7,7 +7,7 @@ function Contact() {
     <div>
         <Navbar />
         <HeroImg2 heading="Contact." text="Lets have a chat" />
-        <Form />
+        
     </div>
   )
 }
